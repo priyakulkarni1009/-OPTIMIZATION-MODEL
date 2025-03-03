@@ -20,3 +20,5 @@ Outcome
 After solving the optimization problem, the company will receive the optimal number of units to produce for each product and the maximum achievable profit, which is the solution to the problem.
 
 In conclusion, using Linear Programming and tools like PuLP in Python allows businesses to optimize resource allocation, maximize profits, and make data-driven decisions. The optimization process involves defining the decision variables, setting up an objective function, adding constraints, and solving for the best solution. This technique can be applied to a wide range of business problems, including production planning, logistics, and financial portfolio optimization.
+
+![Image](https://github.com/user-attachments/assets/295e70b7-e164-40c3-a978-8c3568ea9cbe)
